@@ -12,6 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<env.baseurl>http://www.google.com/</env.baseurl>
 		<testSuiteFile>config/testrun_config.xml</testSuiteFile>
 		<sourceVersion>1.8</sourceVersion>
 		<targetVersion>1.8</targetVersion>
